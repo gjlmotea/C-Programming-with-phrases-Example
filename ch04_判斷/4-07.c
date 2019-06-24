@@ -8,4 +8,6 @@ int main(){
     else
         k = -i;
     printf("%d\n", k);
+
+	return 0;
 }
