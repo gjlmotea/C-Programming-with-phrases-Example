@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-	long int a[10];
-	long int i;
+	long long int a[10];
+	long long int i;
 	
 	printf("%d\n", sizeof(a[0]));
 	printf("%d\n", sizeof(a));
