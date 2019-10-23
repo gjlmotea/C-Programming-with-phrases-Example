@@ -10,3 +10,10 @@ int main(){
 	printf("%d\n", result);
 	return 0;
 }
+
+
+/*
+讀入兩個整數n、i，i>=0，
+計算n的i次方。
+當i為0時需輸出1。
+*/
